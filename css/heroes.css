@@ -1,0 +1,25 @@
+
+.blanco{
+	color: white;
+}
+
+#test1, #test2, #test3, #test4{
+	border-radius: 100%;
+}
+
+#bhome:hover,
+#bphotos:hover,
+#bvideos:hover,
+#bpteam:hover,
+#bcontactos:hover,
+#bdescargar:hover { 
+background-color: #1565c0;
+}
+
+body{background-color: black;
+	font-family: 'Roboto Condensed', sans-serif;
+}
+
+thead,tbody{
+	background-color: white;
+}

@@ -1,0 +1,11 @@
+header {
+	background-image: url('../img/intro.jpg');
+	background-repeat: no-repeat;
+	height: auto;
+	width: 100%;
+}
+
+
+body{
+	background:yellow;
+}

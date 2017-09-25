@@ -1,0 +1,28 @@
+body{
+	font-family: 'Roboto Condensed', sans-serif;
+}
+
+.blanco{
+	color: white;
+}
+
+#test1, #test2, #test3, #test4{
+	border-radius: 100%;
+}
+
+#bhome:hover,
+#bphotos:hover,
+#bvideos:hover,
+#bpteam:hover,
+#bcontactos:hover,
+#bdescargar:hover { 
+background-color: #1565c0;
+}
+
+#DROW{
+
+	text-decoration-color:blue;
+	font-size: 	30px;
+	text-align:center;	
+}
+
